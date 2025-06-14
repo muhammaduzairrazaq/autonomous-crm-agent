@@ -25,8 +25,8 @@ A modular, intelligent CRM automation assistant built using [LangChain](https://
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/crm-assistant.git
-cd crm-assistant
+git clone git@github.com:muhammaduzairrazaq/autonomous-crm-agent.git
+cd autonomous-crm-agent
 ````
 
 ### 2. Install dependencies
