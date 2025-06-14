@@ -1,0 +1,6 @@
+langgraph
+langsmith
+langchain[openai]
+langgraph-supervisor
+sendgrid
+hubspot-api-client
